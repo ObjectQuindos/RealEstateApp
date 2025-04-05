@@ -1,0 +1,25 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%lld / %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld / %2$lld"
+          }
+        }
+      }
+    },
+    "Loading..." : {
+
+    },
+    "Something went wrong!" : {
+
+    },
+    "Try Again" : {
+
+    }
+  },
+  "version" : "1.0"
+}
