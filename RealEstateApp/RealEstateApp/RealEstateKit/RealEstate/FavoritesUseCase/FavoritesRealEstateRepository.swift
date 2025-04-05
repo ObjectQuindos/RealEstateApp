@@ -5,7 +5,7 @@
 //  Created by David López on 5/4/25.
 //
 
-/*import Foundation
+import Foundation
 import CoreData
 
 protocol RealEstateRepository {
@@ -154,4 +154,4 @@ class FavoritesRealEstateRepository: RealEstateRepository {
         }
         
     }
-}*/
+}

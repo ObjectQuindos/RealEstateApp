@@ -5,7 +5,7 @@
 //  Created by David López on 5/4/25.
 //
 
-/*import Foundation
+import Foundation
 
 class FavoritesInteractor {
     
@@ -59,4 +59,4 @@ class FavoritesInteractor {
     func syncFavoriteStatus(realEstates: [RealEstate]) -> [RealEstate] {
         return realEstates.map { syncFavoriteStatus(realEstate: $0) }
     }
-}*/
+}

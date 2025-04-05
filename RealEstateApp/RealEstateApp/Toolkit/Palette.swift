@@ -101,7 +101,7 @@ extension Color {
     }
 }
 
-/*extension RealEstate {
+extension RealEstate {
     
     func getOperationColor() -> UIColor {
         
@@ -136,4 +136,3 @@ extension RealEstateDetail {
         }
     }
 }
-*/
