@@ -11,6 +11,17 @@
         }
       }
     },
+    "accept" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aceptar"
+          }
+        }
+      }
+    },
     "Loading..." : {
 
     },
